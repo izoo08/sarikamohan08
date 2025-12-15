@@ -1,5 +1,5 @@
 <h1> 👩‍💻 Hey! Nice to see you.</h1>
-<h1 align="left">I'm Sarika 😇</h1>
+<h1 align="left">😇</h1>
 
 ### Interested in 
 * Machine Learning
@@ -49,3 +49,4 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sarikamohan08)](https://git.io/streak-stats)
+
