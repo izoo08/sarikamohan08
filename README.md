@@ -20,17 +20,6 @@
 
 
 
-#### You can also find me on-
-
-[<img align="left" alt="Sarika | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Sarika | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Sarika | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-
-
-
-<br>
-
-<hr>
 
 
 
@@ -45,5 +34,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sarikamohan08)](https://git.io/streak-stats)
+
 
 
