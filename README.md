@@ -32,10 +32,6 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/sarika-mohanraj-5160131bb/
-[twitter]: https://twitter.com/SarikaMohanraj
-[Instagram]: https://www.instagram.com/sarika_mohan08/
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarikamohan08&label=Profile%20views&color=0e75b6&style=flat" alt="sarika" /> </p>
@@ -49,4 +45,5 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sarikamohan08)](https://git.io/streak-stats)
+
 
